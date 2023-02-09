@@ -1,0 +1,10 @@
+body {
+    color: #080801;
+    background-color: #f8f8a0;
+  }
+  
+  .jumbotron {
+    background-color: #ebc0f5;
+    background-size: 100% 100%;
+    text-align: center;
+  }
